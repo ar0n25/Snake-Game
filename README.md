@@ -1,5 +1,7 @@
 # Snake
 
+![Snake gameplay](assets/gameplay.gif)
+
 A classic Snake game built with Python and Tkinter.
 
 ## Note
