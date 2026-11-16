@@ -5,7 +5,7 @@
 A classic Snake game built with Python and Tkinter.
 
 ## Note
-This is a desktop GUI app (not a web app) — there's no live demo link. Clone and run locally to play.
+This is a desktop GUI app (not a web app), there's no live demo link. Clone and run locally to play.
 
 ## Controls
 Arrow keys to move.
